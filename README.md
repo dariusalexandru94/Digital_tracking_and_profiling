@@ -63,21 +63,21 @@ type, orientation, religion, use of drugs or alcohol,etc.;
 various products along with the timestamp;
 * **stress level.csv** – a csv file containing indices of consumer’s stress level based
 on an IoT device;
-* **audio files** – a file with the path to audio recordings of consumer’s environment with the help of the enabled “microphone on” option of an app;
+* **audio files** – a file with the path to audio recordings of consumer’s environment with the help of the enabled “microphone on” option of an app;
 * **smart watch.csv** – a csv file with data instances recorded by a fitness application of a smartwatch. It has attributes like: total steps/distance, calories,
 minutes asleep;
 * **heart rate.csv** – a file containing the heart rates of consumers collected by
 a fitness app;
-* **symptoms.csv** – a CSV file containing the symptoms searched by the consumer on his browser
-* **mental health.csv** – a CSV containing pieces of text which represents comments of consumers on social media. A corpus of text used in along with a
+* **symptoms.csv** – a CSV file containing the symptoms searched by the consumer on his browser
+* **mental health.csv** – a CSV containing pieces of text which represents comments of consumers on social media. A corpus of text used in along with a
 pre trained model which detects stress/depression/anxiety based on human
 language.
-* **cookies.csv** – a CSV file that keeps data like the system used by the consumer (smartphone or laptop), the type of the OS, the name of the device
+* **cookies.csv** – a CSV file that keeps data like the system used by the consumer (smartphone or laptop), the type of the OS, the name of the device
 manufacturer, the host, the number of requests and the part of day when the
 request was made (morning, evening);
 * **logs.csv** – with attributes like timestamp, URL and status (200, 302, 404,
 etc);
-* **web history.csv** – a CSV file consisting of the browsing history of each consumer. It keeps data like URL, first visit, last visit, click count and frequency;
+* **web history.csv** – a CSV file consisting of the browsing history of each consumer. It keeps data like URL, first visit, last visit, click count and frequency;
 * **click ads.csv** – a file consisting of information if consumer clicked on an add
 and what kind of add was (indexed with an ad id)
 * **bank loan.csv** – a CSV file containing pieces of information about consumers
