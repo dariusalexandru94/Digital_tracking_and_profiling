@@ -64,7 +64,7 @@ various products along with the timestamp;
 * **stress level.csv** – a csv file containing indices of consumer’s stress level based
 on an IoT device;
 * **audio files** – a file with the path to audio recordings of consumer’s environment with the help of the enabled “microphone on” option of an app;
-* **smart watch.csv** – a csv file with data instances recorded by a fitness application of a smartwatch. It has attributes like: total steps/distance, calories,
+* **smart watch.csv** – a csv file with data instances recorded by a fitness application of a smartwatch. It has attributes like: total steps/distance, calories,
 minutes asleep;
 * **heart rate.csv** – a file containing the heart rates of consumers collected by
 a fitness app;
