@@ -90,7 +90,7 @@ using a retail app, the timestamp, number of items purchased, etc;
 * **demographics.csv** – a csv file consisting of demographics attributes of each
 consumer, like age, gender, work class, education, occupation, salary, marital
 status, race and zip code
-* **microphine recording** - a directory consisting of smartphone mic .wav files
+* **microphine recording** - a directory consisting of smartphone mic .wav files.
 
 ## Dimensional Modeling
 
